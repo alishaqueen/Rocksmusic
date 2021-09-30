@@ -41,21 +41,21 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/broken_starr")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Venom_Hai_Hum")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/sanskari_userbot"
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/ABOUTABHI"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/bot_sanskari_support"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/Shayri_Music_Lovers"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Tora_litiousmermaid"
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Venom_Hai_Hum"
                     )]
             ]
         ),
-     disable_web_page_preview=True
+     disable_web_page_preview=False
     )
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
@@ -69,10 +69,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/bot_sanskari_support"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/Shayri_Music_Lovers"
                     ),
                     InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/sanskari_userbot"
+                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ABOUTABHI"
                     )
                 ]
             ]
