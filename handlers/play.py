@@ -151,7 +151,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
+                        text="❰ 𝑶𝑾𝑵𝑬𝑹 😎❤️🤟 ❱",
                         url="https://t.me/Venom_Hai_Hum")
                    
                 ]
@@ -189,7 +189,7 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
+                            text="❰ 𝑶𝑾𝑵𝑬𝑹 😎❤️🤟 ❱",
                             url="https://t.me/Venom_Hai_Hum"),
                         
 
@@ -205,7 +205,7 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                            text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
+                            text="❰ 𝑶𝑾𝑵𝑬𝑹 😎❤️🤟 ❱",
                             url="https://t.me/Venom_Hai_Hum"),
 
                         ]
@@ -256,7 +256,7 @@ async def play(_, message: Message):
                     [
                       
                         InlineKeyboardButton(
-                            text="❰ 𝗚𝗿𝗼𝘂𝗽 😎❤️🤟 ❱",
+                            text="❰ 𝑶𝑾𝑵𝑬𝑹 😎❤️🤟 ❱",
                             url="https://t.me/Venom_Hai_Hum"),
 
                     ]
